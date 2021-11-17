@@ -6,5 +6,9 @@
   flex: 1 0 0;
   background-color: rgba(165, 42, 42, 0.541);
   padding: 3px;
-  
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
 }
